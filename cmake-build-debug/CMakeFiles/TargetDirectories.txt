@@ -1,0 +1,3 @@
+C:/Users/SESI/CLionProjects/EstudandoC/cmake-build-debug/CMakeFiles/EstudandoC.dir
+C:/Users/SESI/CLionProjects/EstudandoC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SESI/CLionProjects/EstudandoC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

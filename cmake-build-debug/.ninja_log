@@ -1,0 +1,5 @@
+# ninja log v5
+1	629	6618272877773002	build.ninja	a25b960c2c61a5c3
+3	285	6618272881553061	CMakeFiles/EstudandoC.dir/Complexo.cpp.obj	32384870ac9dbb79
+1	987	6618272888566704	CMakeFiles/EstudandoC.dir/main.cpp.obj	3fef7744c0fb735
+989	1518	6618272893825690	EstudandoC.exe	fe078eeb4997650e
