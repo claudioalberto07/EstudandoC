@@ -5,6 +5,7 @@
 #ifndef ESTUDANDOC_COMPLEXO_H
 #define ESTUDANDOC_COMPLEXO_H
 
+// Aprendendo sobrecarga de operadores
 
 class Complexo {
 

@@ -55,11 +55,17 @@ build CMakeFiles/EstudandoC.dir/main.cpp.obj: CXX_COMPILER__EstudandoC_Debug C$:
   OBJECT_DIR = CMakeFiles\EstudandoC.dir
   OBJECT_FILE_DIR = CMakeFiles\EstudandoC.dir
 
-build CMakeFiles/EstudandoC.dir/Complexo.cpp.obj: CXX_COMPILER__EstudandoC_Debug C$:/Users/SESI/CLionProjects/EstudandoC/Complexo.cpp || cmake_object_order_depends_target_EstudandoC
-  DEP_FILE = CMakeFiles\EstudandoC.dir\Complexo.cpp.obj.d
+build CMakeFiles/EstudandoC.dir/Classes/Complexo.cpp.obj: CXX_COMPILER__EstudandoC_Debug C$:/Users/SESI/CLionProjects/EstudandoC/Classes/Complexo.cpp || cmake_object_order_depends_target_EstudandoC
+  DEP_FILE = CMakeFiles\EstudandoC.dir\Classes\Complexo.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\EstudandoC.dir
-  OBJECT_FILE_DIR = CMakeFiles\EstudandoC.dir
+  OBJECT_FILE_DIR = CMakeFiles\EstudandoC.dir\Classes
+
+build CMakeFiles/EstudandoC.dir/Classes/Pessoa.cpp.obj: CXX_COMPILER__EstudandoC_Debug C$:/Users/SESI/CLionProjects/EstudandoC/Classes/Pessoa.cpp || cmake_object_order_depends_target_EstudandoC
+  DEP_FILE = CMakeFiles\EstudandoC.dir\Classes\Pessoa.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\EstudandoC.dir
+  OBJECT_FILE_DIR = CMakeFiles\EstudandoC.dir\Classes
 
 
 # =============================================================================
@@ -69,7 +75,7 @@ build CMakeFiles/EstudandoC.dir/Complexo.cpp.obj: CXX_COMPILER__EstudandoC_Debug
 #############################################
 # Link the executable EstudandoC.exe
 
-build EstudandoC.exe: CXX_EXECUTABLE_LINKER__EstudandoC_Debug CMakeFiles/EstudandoC.dir/main.cpp.obj CMakeFiles/EstudandoC.dir/Complexo.cpp.obj
+build EstudandoC.exe: CXX_EXECUTABLE_LINKER__EstudandoC_Debug CMakeFiles/EstudandoC.dir/main.cpp.obj CMakeFiles/EstudandoC.dir/Classes/Complexo.cpp.obj CMakeFiles/EstudandoC.dir/Classes/Pessoa.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\EstudandoC.dir

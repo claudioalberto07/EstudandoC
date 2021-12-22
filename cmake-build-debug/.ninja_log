@@ -1,5 +1,17 @@
 # ninja log v5
-1	629	6618272877773002	build.ninja	a25b960c2c61a5c3
+898	1343	6618436595539315	EstudandoC.exe	8659bb755fd09c2a
+2	593	6618436844518627	build.ninja	a25b960c2c61a5c3
 3	285	6618272881553061	CMakeFiles/EstudandoC.dir/Complexo.cpp.obj	32384870ac9dbb79
-1	987	6618272888566704	CMakeFiles/EstudandoC.dir/main.cpp.obj	3fef7744c0fb735
-989	1518	6618272893825690	EstudandoC.exe	fe078eeb4997650e
+5	898	6618436590917021	CMakeFiles/EstudandoC.dir/main.cpp.obj	3fef7744c0fb735
+8	274	6618436584896004	CMakeFiles/EstudandoC.dir/Classes/Complexo.cpp.obj	328e55cf63c83dac
+11	934	6618951486641750	CMakeFiles/EstudandoC.dir/Classes/Pessoa.cpp.obj	6f86846d069c9677
+6	1408	6618951491384505	CMakeFiles/EstudandoC.dir/main.cpp.obj	3fef7744c0fb735
+1408	2059	6618951497848806	EstudandoC.exe	9b5428a7d477520d
+9	439	6618954214543760	CMakeFiles/EstudandoC.dir/Classes/Pessoa.cpp.obj	6f86846d069c9677
+7	1370	6618954224175036	CMakeFiles/EstudandoC.dir/main.cpp.obj	3fef7744c0fb735
+1371	1867	6618954229124014	EstudandoC.exe	9b5428a7d477520d
+7	1120	6618954652045283	CMakeFiles/EstudandoC.dir/main.cpp.obj	3fef7744c0fb735
+8	436	6618954702888757	EstudandoC.exe	9b5428a7d477520d
+9	316	6618989578641495	CMakeFiles/EstudandoC.dir/Classes/Pessoa.cpp.obj	6f86846d069c9677
+6	821	6618989583701015	CMakeFiles/EstudandoC.dir/main.cpp.obj	3fef7744c0fb735
+821	1281	6618989588263757	EstudandoC.exe	9b5428a7d477520d

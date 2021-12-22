@@ -3,8 +3,6 @@
 //
 
 #include "Complexo.h"
-
-
 Complexo::Complexo(int real, int imag) {
     this->real = real;
     this->imag = imag;
