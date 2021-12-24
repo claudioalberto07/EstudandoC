@@ -30,6 +30,12 @@ public:
         }
     }
 
+    ofstream writeTxt(string path, string texto){
+        ofstream file(path);
+        file << texto;
+        return file;
+    }
+
     void readText(){
         cout << this->texto << endl;
     }

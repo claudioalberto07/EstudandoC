@@ -32,5 +32,7 @@ int main(int argc, char *argv[]) {
     Arquivo file(R"(C:\Users\SESI\CLionProjects\EstudandoC\Files\Leituras.txt)");
     file.readText();
 
+    file.writeTxt(R"(C:\Users\SESI\CLionProjects\EstudandoC\Files\teste.txt)", "Treinando C++");
+
     return 0;
 }
