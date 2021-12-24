@@ -1,6 +1,7 @@
 #include <iostream>
 #include "Classes/Complexo.h"
 #include "Classes/Pessoa.h"
+#include "Classes/Arquivo.h"
 
 int main(int argc, char *argv[]) {
     /*
@@ -25,5 +26,11 @@ int main(int argc, char *argv[]) {
 
     std::cout << p1.getNome() << std::endl;
     std::cout << p2.getNome() << std::endl;
+
+
+    // Lendo arquivo txt
+    Arquivo file(R"(C:\Users\SESI\CLionProjects\EstudandoC\Files\Leituras.txt)");
+    file.readText();
+
     return 0;
 }

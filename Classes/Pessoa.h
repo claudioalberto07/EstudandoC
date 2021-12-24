@@ -17,6 +17,7 @@ public:
     void mudarNome(char letra);
     void inicializar(const char *newNome, int id);
     void destruir();
+    void readText();
 
     Pessoa& operator=(Pessoa &pessoa){
         if(this != &pessoa){
